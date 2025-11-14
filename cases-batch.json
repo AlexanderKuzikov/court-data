@@ -1,0 +1,1266 @@
+[
+  {
+    "uid": "59RS0011-01-2024-006728-04",
+    "type": "Гражданские дела - апелляция",
+    "number": "33-8181/2025",
+    "identifiers": {
+      "uid": "59RS0011-01-2024-006728-04",
+      "number": "33-8181/2025",
+      "delo_id": "5",
+      "case_uid": "8df0ff41-0fb4-4aed-8950-e79e90dafbd3",
+      "case_type": null
+    },
+    "publishedAt": "undefined-undefined-29T00:00:00",
+    "modifiedAt": "undefined-undefined-12T00:00:00",
+    "card": {
+      "filingDate": "2025-08-29",
+      "category": [
+        "Споры, связанные с земельными отношениями&nbsp;→",
+        "Другие споры, связанные с землепользованием&nbsp;→",
+        "Об устранении препятствий в пользовании земельными участками и объектами недвижимости"
+      ],
+      "judge": "Аникина Ксения Сергеевна",
+      "hearingDate": null,
+      "result": null,
+      "proceedingType": null
+    },
+    "events": [],
+    "parties": [
+      {
+        "role": "Передача дела судье",
+        "name": "01.09.2025",
+        "inn": "16:51",
+        "kpp": null,
+        "ogrn": null,
+        "ogrnip": null
+      },
+      {
+        "role": "Судебное заседание",
+        "name": "21.10.2025",
+        "inn": "10:15",
+        "kpp": "525",
+        "ogrn": "Объявлен перерыв",
+        "ogrnip": null
+      },
+      {
+        "role": "Судебное заседание",
+        "name": "21.10.2025",
+        "inn": "17:00",
+        "kpp": "525",
+        "ogrn": null,
+        "ogrnip": null
+      },
+      {
+        "role": "Срок рассмотрения дела продлен председателем суда",
+        "name": "21.10.2025",
+        "inn": "17:01",
+        "kpp": null,
+        "ogrn": null,
+        "ogrnip": null
+      },
+      {
+        "role": "Судебное заседание",
+        "name": "05.11.2025",
+        "inn": "11:00",
+        "kpp": "525",
+        "ogrn": "Объявлен перерыв",
+        "ogrnip": null
+      },
+      {
+        "role": "Судебное заседание",
+        "name": "11.11.2025",
+        "inn": "11:30",
+        "kpp": "525",
+        "ogrn": "Объявлен перерыв",
+        "ogrnip": null
+      },
+      {
+        "role": "Судебное заседание",
+        "name": "12.11.2025",
+        "inn": "09:15",
+        "kpp": "525",
+        "ogrn": "Производство по делу приостановлено",
+        "ogrnip": "НАЗНАЧЕНИЕ СУДОМ ЭКСПЕРТИЗЫ"
+      }
+    ]
+  },
+  {
+    "uid": "59RS0029-01-2025-000304-05",
+    "type": "Гражданские дела - апелляция",
+    "number": "33-8605/2025",
+    "identifiers": {
+      "uid": "59RS0029-01-2025-000304-05",
+      "number": "33-8605/2025",
+      "delo_id": "5",
+      "case_uid": "ee30f0b0-7d73-43a2-8224-52a07dc11035",
+      "case_type": null
+    },
+    "publishedAt": "undefined-undefined-15T00:00:00",
+    "modifiedAt": "undefined-undefined-17T00:00:00",
+    "card": {
+      "filingDate": "2025-09-15",
+      "category": [
+        "Споры, связанные с земельными отношениями&nbsp;→",
+        "Другие споры, связанные с землепользованием&nbsp;→",
+        "О признании недействительными сделок с земельными участками, истребовании из незаконного владения земельных участков, снятии с кадастрового учета земельных участков"
+      ],
+      "judge": "Хузяхралов Дмитрий Олегович",
+      "hearingDate": null,
+      "result": null,
+      "proceedingType": null
+    },
+    "events": [],
+    "parties": [
+      {
+        "role": "Передача дела судье",
+        "name": "15.09.2025",
+        "inn": "16:41",
+        "kpp": null,
+        "ogrn": null,
+        "ogrnip": null
+      },
+      {
+        "role": "Судебное заседание",
+        "name": "12.11.2025",
+        "inn": "09:30",
+        "kpp": "525",
+        "ogrn": null,
+        "ogrnip": null
+      }
+    ]
+  },
+  {
+    "uid": "59RS0001-01-2025-005262-98",
+    "type": "Гражданские дела - первая инстанция",
+    "number": "2-2768/2025 ~ М-2646/2025",
+    "identifiers": {
+      "uid": "59RS0001-01-2025-005262-98",
+      "number": "2-2768/2025 ~ М-2646/2025",
+      "delo_id": "1540005",
+      "case_uid": "ffa7d047-9710-428f-831b-4ce2e07adc89",
+      "case_type": null
+    },
+    "publishedAt": "undefined-undefined-11T00:00:00",
+    "modifiedAt": "undefined-undefined-12T00:00:00",
+    "card": {
+      "filingDate": "2025-09-10",
+      "category": [
+        "Споры, возникающие из семейных правоотношений&nbsp;→",
+        "Об установлении отцовства"
+      ],
+      "judge": "Барышникова М.И.",
+      "hearingDate": "2025-11-12",
+      "result": "Иск (заявление, жалоба) УДОВЛЕТВОРЕН ЧАСТИЧНО",
+      "proceedingType": "Рассмотрено единолично судьей"
+    },
+    "events": [
+      {
+        "eventName": "Регистрация иска (заявления, жалобы) в суде",
+        "eventDate": "2025-09-10",
+        "eventTime": "17:31",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-09-11"
+      },
+      {
+        "eventName": "Передача материалов судье",
+        "eventDate": "2025-09-10",
+        "eventTime": "18:07",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-09-11"
+      },
+      {
+        "eventName": "Решение вопроса о принятии иска (заявления, жалобы) к рассмотрению",
+        "eventDate": "2025-09-15",
+        "eventTime": "17:32",
+        "location": null,
+        "result": "Иск (заявление, жалоба) принят к производству",
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-09-17"
+      },
+      {
+        "eventName": "Вынесено определение о подготовке дела к судебному разбирательству",
+        "eventDate": "2025-09-15",
+        "eventTime": "17:33",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-09-17"
+      },
+      {
+        "eventName": "Вынесено определение в порядке ст. 152 ч.3 ГПК РФ (о назначении срока проведения предв. суд. заседания выходящего за пределы установленных ГПК)",
+        "eventDate": "2025-09-15",
+        "eventTime": "17:33",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-09-17"
+      },
+      {
+        "eventName": "Предварительное судебное заседание",
+        "eventDate": "2025-10-15",
+        "eventTime": "10:00",
+        "location": "26",
+        "result": "Заседание отложено",
+        "reason": "ИСТРЕБОВАНИЕ ДОКАЗАТЕЛЬСТВ",
+        "note": null,
+        "publishDate": "2025-09-17"
+      },
+      {
+        "eventName": "Вынесено определение в порядке ст. 152 ч.3 ГПК РФ (о назначении срока проведения предв. суд. заседания выходящего за пределы установленных ГПК)",
+        "eventDate": "2025-10-15",
+        "eventTime": "10:29",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-10-15"
+      },
+      {
+        "eventName": "Предварительное судебное заседание",
+        "eventDate": "2025-11-05",
+        "eventTime": "10:00",
+        "location": "26",
+        "result": "Рассмотрение дела начато с начала",
+        "reason": "Привлечение соответчика или соответчиков",
+        "note": null,
+        "publishDate": "2025-10-15"
+      },
+      {
+        "eventName": "Судебное заседание",
+        "eventDate": "2025-11-12",
+        "eventTime": "09:00",
+        "location": "26",
+        "result": "Вынесено решение по делу",
+        "reason": "Иск (заявление, жалоба) УДОВЛЕТВОРЕН ЧАСТИЧНО",
+        "note": null,
+        "publishDate": "2025-11-05"
+      }
+    ],
+    "parties": [
+      {
+        "role": "ОТВЕТЧИК",
+        "name": "Информация скрыта",
+        "inn": null,
+        "kpp": null,
+        "ogrn": null,
+        "ogrnip": null
+      },
+      {
+        "role": "ОТВЕТЧИК",
+        "name": "Информация скрыта",
+        "inn": null,
+        "kpp": null,
+        "ogrn": null,
+        "ogrnip": null
+      },
+      {
+        "role": "ТРЕТЬЕ ЛИЦО",
+        "name": "Информация скрыта",
+        "inn": null,
+        "kpp": null,
+        "ogrn": null,
+        "ogrnip": null
+      },
+      {
+        "role": "ПРЕДСТАВИТЕЛЬ",
+        "name": "Информация скрыта",
+        "inn": null,
+        "kpp": null,
+        "ogrn": null,
+        "ogrnip": null
+      },
+      {
+        "role": "ИСТЕЦ",
+        "name": "Информация скрыта",
+        "inn": null,
+        "kpp": null,
+        "ogrn": null,
+        "ogrnip": null
+      }
+    ]
+  },
+  {
+    "uid": "59RS0001-01-2025-005756-71",
+    "type": "Гражданские дела - первая инстанция",
+    "number": "2-3017/2025 ~ М-2898/2025",
+    "identifiers": {
+      "uid": "59RS0001-01-2025-005756-71",
+      "number": "2-3017/2025 ~ М-2898/2025",
+      "delo_id": "1540005",
+      "case_uid": "1e4218cd-1930-4d70-bbb4-8d2addb02c7b",
+      "case_type": null
+    },
+    "publishedAt": "undefined-undefined-03T00:00:00",
+    "modifiedAt": "undefined-undefined-12T00:00:00",
+    "card": {
+      "filingDate": "2025-10-03",
+      "category": [
+        "Отношения, связанные с защитой прав потребителей&nbsp;→",
+        "О защите прав потребителей&nbsp;→",
+        "- из договоров в сфере:&nbsp;→",
+        "транспортных услуг"
+      ],
+      "judge": "Данилова Ю.И.",
+      "hearingDate": null,
+      "result": null,
+      "proceedingType": "Рассматривается единолично судьей"
+    },
+    "events": [
+      {
+        "eventName": "Регистрация иска (заявления, жалобы) в суде",
+        "eventDate": "2025-10-03",
+        "eventTime": "12:13",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-10-03"
+      },
+      {
+        "eventName": "Передача материалов судье",
+        "eventDate": "2025-10-03",
+        "eventTime": "17:29",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-10-03"
+      },
+      {
+        "eventName": "Решение вопроса о принятии иска (заявления, жалобы) к рассмотрению",
+        "eventDate": "2025-10-10",
+        "eventTime": "17:30",
+        "location": null,
+        "result": "Иск (заявление, жалоба) принят к производству",
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-10-15"
+      },
+      {
+        "eventName": "Вынесено определение о подготовке дела к судебному разбирательству",
+        "eventDate": "2025-10-10",
+        "eventTime": "17:40",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-10-15"
+      },
+      {
+        "eventName": "Вынесено определение о назначении дела к судебному разбирательству",
+        "eventDate": "2025-10-10",
+        "eventTime": "17:41",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-10-15"
+      },
+      {
+        "eventName": "Судебное заседание",
+        "eventDate": "2025-11-12",
+        "eventTime": "09:30",
+        "location": "27",
+        "result": "Заседание отложено",
+        "reason": "ИСТРЕБОВАНИЕ ДОКАЗАТЕЛЬСТВ",
+        "note": null,
+        "publishDate": "2025-10-15"
+      },
+      {
+        "eventName": "Судебное заседание",
+        "eventDate": "2025-12-01",
+        "eventTime": "14:30",
+        "location": "28",
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-11-12"
+      }
+    ],
+    "parties": [
+      {
+        "role": "ИСТЕЦ",
+        "name": "Абдулов Ильдар Фаритович",
+        "inn": null,
+        "kpp": null,
+        "ogrn": null,
+        "ogrnip": null
+      },
+      {
+        "role": "ОТВЕТЧИК",
+        "name": "ПАО \"Аэрофлот\"",
+        "inn": "7712040126",
+        "kpp": null,
+        "ogrn": "1027700092661",
+        "ogrnip": null
+      }
+    ]
+  },
+  {
+    "uid": "59RS0001-01-2025-005451-16",
+    "type": "Гражданские дела - первая инстанция",
+    "number": "2-2856/2025 ~ М-2749/2025",
+    "identifiers": {
+      "uid": "59RS0001-01-2025-005451-16",
+      "number": "2-2856/2025 ~ М-2749/2025",
+      "delo_id": "1540005",
+      "case_uid": "03fb2d11-6a84-448a-98c5-a1c154cee86c",
+      "case_type": null
+    },
+    "publishedAt": "undefined-undefined-19T00:00:00",
+    "modifiedAt": "undefined-undefined-07T00:00:00",
+    "card": {
+      "filingDate": "2025-09-19",
+      "category": [
+        "Дела особого производства&nbsp;→",
+        "О признании гражданина недееспособным"
+      ],
+      "judge": "Завьялов О.М.",
+      "hearingDate": null,
+      "result": null,
+      "proceedingType": "Рассматривается единолично судьей"
+    },
+    "events": [
+      {
+        "eventName": "Регистрация иска (заявления, жалобы) в суде",
+        "eventDate": "2025-09-19",
+        "eventTime": "14:25",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-09-19"
+      },
+      {
+        "eventName": "Передача материалов судье",
+        "eventDate": "2025-09-19",
+        "eventTime": "18:22",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-09-20"
+      },
+      {
+        "eventName": "Решение вопроса о принятии иска (заявления, жалобы) к рассмотрению",
+        "eventDate": "2025-09-22",
+        "eventTime": "11:39",
+        "location": null,
+        "result": "Иск (заявление, жалоба) принят к производству",
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-09-26"
+      },
+      {
+        "eventName": "Вынесено определение о подготовке дела к судебному разбирательству",
+        "eventDate": "2025-09-22",
+        "eventTime": "11:40",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-09-26"
+      },
+      {
+        "eventName": "Вынесено определение в порядке ст. 152 ч.3 ГПК РФ (о назначении срока проведения предв. суд. заседания выходящего за пределы установленных ГПК)",
+        "eventDate": "2025-09-22",
+        "eventTime": "11:40",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-09-26"
+      },
+      {
+        "eventName": "Предварительное судебное заседание",
+        "eventDate": "2025-10-30",
+        "eventTime": "10:00",
+        "location": "5",
+        "result": "Объявлен перерыв",
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-09-26"
+      },
+      {
+        "eventName": "Предварительное судебное заседание",
+        "eventDate": "2025-11-12",
+        "eventTime": "09:30",
+        "location": "5",
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-10-30"
+      }
+    ],
+    "parties": [
+      {
+        "role": "ЗАИНТЕРЕСОВАННОЕ ЛИЦО",
+        "name": "Информация скрыта",
+        "inn": null,
+        "kpp": null,
+        "ogrn": null,
+        "ogrnip": null
+      },
+      {
+        "role": "ЗАИНТЕРЕСОВАННОЕ ЛИЦО",
+        "name": "Информация скрыта",
+        "inn": null,
+        "kpp": null,
+        "ogrn": null,
+        "ogrnip": null
+      },
+      {
+        "role": "ПРОКУРОР",
+        "name": "Информация скрыта",
+        "inn": null,
+        "kpp": null,
+        "ogrn": null,
+        "ogrnip": null
+      },
+      {
+        "role": "ЗАЯВИТЕЛЬ",
+        "name": "Информация скрыта",
+        "inn": null,
+        "kpp": null,
+        "ogrn": null,
+        "ogrnip": null
+      }
+    ]
+  },
+  {
+    "uid": "59RS0004-01-2025-005266-24",
+    "type": "Гражданские дела - первая инстанция",
+    "number": "2-3380/2025 ~ М-2761/2025",
+    "identifiers": {
+      "uid": "59RS0004-01-2025-005266-24",
+      "number": "2-3380/2025 ~ М-2761/2025",
+      "delo_id": "1540005",
+      "case_uid": "ade659b4-b749-41a2-b275-9a4040356fce",
+      "case_type": null
+    },
+    "publishedAt": "undefined-undefined-29T00:00:00",
+    "modifiedAt": "undefined-undefined-15T00:00:00",
+    "card": {
+      "filingDate": "2025-08-28",
+      "category": [
+        "Споры, возникающие из семейных правоотношений&nbsp;→",
+        "Другие, возникающие из семейных отношений&nbsp;→",
+        "Дела по спорам о разделе совместно нажитого имущества между супругами"
+      ],
+      "judge": "Стрелкова С.Г.",
+      "hearingDate": null,
+      "result": null,
+      "proceedingType": "Рассматривается единолично судьей"
+    },
+    "events": [
+      {
+        "eventName": "Регистрация иска (заявления, жалобы) в суде",
+        "eventDate": "2025-08-28",
+        "eventTime": "12:49",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-08-29"
+      },
+      {
+        "eventName": "Передача материалов судье",
+        "eventDate": "2025-08-29",
+        "eventTime": "09:21",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-08-29"
+      },
+      {
+        "eventName": "Решение вопроса о принятии иска (заявления, жалобы) к рассмотрению",
+        "eventDate": "2025-09-04",
+        "eventTime": "15:56",
+        "location": null,
+        "result": "Иск (заявление, жалоба) принят к производству",
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-09-05"
+      },
+      {
+        "eventName": "Вынесено определение о подготовке дела к судебному разбирательству",
+        "eventDate": "2025-09-04",
+        "eventTime": "15:58",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-09-05"
+      },
+      {
+        "eventName": "Вынесено определение о назначении предварительного судебного заседания",
+        "eventDate": "2025-09-04",
+        "eventTime": "15:58",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-09-05"
+      },
+      {
+        "eventName": "Предварительное судебное заседание",
+        "eventDate": "2025-09-24",
+        "eventTime": "12:00",
+        "location": "219",
+        "result": "Заседание отложено",
+        "reason": "Подготовка мирового соглашения",
+        "note": null,
+        "publishDate": "2025-09-05"
+      },
+      {
+        "eventName": "Вынесено определение в порядке ст. 152 ч.3 ГПК РФ (о назначении срока проведения предв. суд. заседания выходящего за пределы установленных ГПК)",
+        "eventDate": "2025-09-24",
+        "eventTime": "12:35",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-09-24"
+      },
+      {
+        "eventName": "Предварительное судебное заседание",
+        "eventDate": "2025-11-12",
+        "eventTime": "10:00",
+        "location": "219",
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-09-24"
+      }
+    ],
+    "parties": [
+      {
+        "role": "ПРЕДСТАВИТЕЛЬ",
+        "name": "Информация скрыта",
+        "inn": null,
+        "kpp": null,
+        "ogrn": null,
+        "ogrnip": null
+      },
+      {
+        "role": "ИСТЕЦ",
+        "name": "Информация скрыта",
+        "inn": null,
+        "kpp": null,
+        "ogrn": null,
+        "ogrnip": null
+      },
+      {
+        "role": "ОТВЕТЧИК",
+        "name": "Информация скрыта",
+        "inn": null,
+        "kpp": null,
+        "ogrn": null,
+        "ogrnip": null
+      }
+    ]
+  },
+  {
+    "uid": "59RS0004-01-2025-005937-48",
+    "type": "Гражданские дела - первая инстанция",
+    "number": "2-3704/2025 ~ М-3161/2025",
+    "identifiers": {
+      "uid": "59RS0004-01-2025-005937-48",
+      "number": "2-3704/2025 ~ М-3161/2025",
+      "delo_id": "1540005",
+      "case_uid": "d677298c-15ec-485b-896e-1efc67d73c66",
+      "case_type": null
+    },
+    "publishedAt": "undefined-undefined-30T00:00:00",
+    "modifiedAt": "undefined-undefined-29T00:00:00",
+    "card": {
+      "filingDate": "2025-09-30",
+      "category": [
+        "Споры, связанные с имущественными правами&nbsp;→",
+        "Иски о взыскании сумм по договору займа, кредитному договору"
+      ],
+      "judge": "Шпигарь Ю.Н.",
+      "hearingDate": null,
+      "result": null,
+      "proceedingType": "Рассматривается единолично судьей"
+    },
+    "events": [
+      {
+        "eventName": "Регистрация иска (заявления, жалобы) в суде",
+        "eventDate": "2025-09-30",
+        "eventTime": "10:22",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-09-30"
+      },
+      {
+        "eventName": "Передача материалов судье",
+        "eventDate": "2025-10-01",
+        "eventTime": "09:07",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-10-01"
+      },
+      {
+        "eventName": "Решение вопроса о принятии иска (заявления, жалобы) к рассмотрению",
+        "eventDate": "2025-10-06",
+        "eventTime": "14:02",
+        "location": null,
+        "result": "Иск (заявление, жалоба) принят к производству",
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-10-06"
+      },
+      {
+        "eventName": "Вынесено определение о подготовке дела к судебному разбирательству",
+        "eventDate": "2025-10-06",
+        "eventTime": "14:02",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-10-06"
+      },
+      {
+        "eventName": "Вынесено определение о назначении предварительного судебного заседания",
+        "eventDate": "2025-10-06",
+        "eventTime": "14:02",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-10-06"
+      },
+      {
+        "eventName": "Предварительное судебное заседание",
+        "eventDate": "2025-10-23",
+        "eventTime": "11:00",
+        "location": "408",
+        "result": "Рассмотрение дела начато с начала",
+        "reason": "Вступлении в процесс третьего лица, не заявляющего самостоятельных требований относительно предмета спора",
+        "note": null,
+        "publishDate": "2025-10-06"
+      },
+      {
+        "eventName": "Предварительное судебное заседание",
+        "eventDate": "2025-11-12",
+        "eventTime": "10:00",
+        "location": "408",
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-10-24"
+      }
+    ],
+    "parties": [
+      {
+        "role": "ТРЕТЬЕ ЛИЦО",
+        "name": "муниципальное образование Кудымкарский муниципальный округ в лице Администрации г. Кудымкара",
+        "inn": null,
+        "kpp": null,
+        "ogrn": null,
+        "ogrnip": null
+      },
+      {
+        "role": "ИСТЕЦ",
+        "name": "ПАО \"Сбербанк России\"",
+        "inn": "7707083893",
+        "kpp": "773601001",
+        "ogrn": "1027700132195",
+        "ogrnip": null
+      },
+      {
+        "role": "ОТВЕТЧИК",
+        "name": "Территориальное управление Федерального агентства по управлению государственным имуществом в Пермском крае",
+        "inn": "5902293756",
+        "kpp": "590201001",
+        "ogrn": "1115902001632",
+        "ogrnip": null
+      },
+      {
+        "role": "ТРЕТЬЕ ЛИЦО",
+        "name": "Ярков Николай Иванович",
+        "inn": null,
+        "kpp": null,
+        "ogrn": null,
+        "ogrnip": null
+      },
+      {
+        "role": "ТРЕТЬЕ ЛИЦО",
+        "name": "Ярков Сергей Николаевич",
+        "inn": null,
+        "kpp": null,
+        "ogrn": null,
+        "ogrnip": null
+      }
+    ]
+  },
+  {
+    "uid": "59RS0004-01-2025-004688-12",
+    "type": "Гражданские дела - первая инстанция",
+    "number": "2-3119/2025 ~ М-2487/2025",
+    "identifiers": {
+      "uid": "59RS0004-01-2025-004688-12",
+      "number": "2-3119/2025 ~ М-2487/2025",
+      "delo_id": "1540005",
+      "case_uid": "2b8f37b5-6262-41b8-91a6-52a0f215d622",
+      "case_type": null
+    },
+    "publishedAt": "undefined-undefined-04T00:00:00",
+    "modifiedAt": "undefined-undefined-12T00:00:00",
+    "card": {
+      "filingDate": "2025-08-04",
+      "category": [
+        "Споры, связанные с жилищными отношениями&nbsp;→",
+        "Другие жилищные споры&nbsp;→",
+        "Иные жилищные споры"
+      ],
+      "judge": "Казаков А.О.",
+      "hearingDate": "2025-11-12",
+      "result": "Иск (заявление, жалоба) ОСТАВЛЕН БЕЗ РАССМОТРЕНИЯ<br>ИСТЕЦ (не просивший о разбирательстве в его отсутствии) НЕ ЯВИЛСЯ В СУД ПО ВТОРИЧНОМУ ВЫЗОВУ",
+      "proceedingType": "Рассмотрено единолично судьей"
+    },
+    "events": [
+      {
+        "eventName": "Регистрация иска (заявления, жалобы) в суде",
+        "eventDate": "2025-08-04",
+        "eventTime": "12:56",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-08-04"
+      },
+      {
+        "eventName": "Передача материалов судье",
+        "eventDate": "2025-08-05",
+        "eventTime": "09:32",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-08-05"
+      },
+      {
+        "eventName": "Решение вопроса о принятии иска (заявления, жалобы) к рассмотрению",
+        "eventDate": "2025-08-11",
+        "eventTime": "16:27",
+        "location": null,
+        "result": "Иск (заявление, жалоба) принят к производству",
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-08-11"
+      },
+      {
+        "eventName": "Вынесено определение о подготовке дела к судебному разбирательству",
+        "eventDate": "2025-08-11",
+        "eventTime": "16:27",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-08-11"
+      },
+      {
+        "eventName": "Вынесено определение о назначении предварительного судебного заседания",
+        "eventDate": "2025-08-11",
+        "eventTime": "16:27",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-08-11"
+      },
+      {
+        "eventName": "Предварительное судебное заседание",
+        "eventDate": "2025-09-04",
+        "eventTime": "11:30",
+        "location": "313",
+        "result": "Рассмотрение дела начато с начала",
+        "reason": "Вступлении в процесс третьего лица, не заявляющего самостоятельных требований относительно предмета спора",
+        "note": null,
+        "publishDate": "2025-08-11"
+      },
+      {
+        "eventName": "Предварительное судебное заседание",
+        "eventDate": "2025-10-16",
+        "eventTime": "14:00",
+        "location": "313",
+        "result": "Рассмотрение дела начато с начала",
+        "reason": "Вступлении в процесс третьего лица, не заявляющего самостоятельных требований относительно предмета спора",
+        "note": null,
+        "publishDate": "2025-09-08"
+      },
+      {
+        "eventName": "Судебное заседание",
+        "eventDate": "2025-11-12",
+        "eventTime": "10:15",
+        "location": "313",
+        "result": "Иск (заявление, жалоба) оставлены без рассмотрения",
+        "reason": "ИСТЕЦ (не просивший о разбирательстве в его отсутствии) НЕ ЯВИЛСЯ В СУД ПО ВТОРИЧНОМУ ВЫЗОВУ",
+        "note": null,
+        "publishDate": "2025-10-17"
+      }
+    ],
+    "parties": [
+      {
+        "role": "ИСТЕЦ",
+        "name": "Левуцкая Наталья Владимировна",
+        "inn": null,
+        "kpp": null,
+        "ogrn": null,
+        "ogrnip": null
+      },
+      {
+        "role": "ОТВЕТЧИК",
+        "name": "Муниципальное образование \"Город Пермь\" в лице администрации города Перми",
+        "inn": null,
+        "kpp": null,
+        "ogrn": null,
+        "ogrnip": null
+      },
+      {
+        "role": "ТРЕТЬЕ ЛИЦО",
+        "name": "ПАО \"Норвик Банк\"",
+        "inn": "4346001485",
+        "kpp": "770501001",
+        "ogrn": "1024300004739",
+        "ogrnip": null
+      },
+      {
+        "role": "ТРЕТЬЕ ЛИЦО",
+        "name": "Плотников Сергей Иванович",
+        "inn": null,
+        "kpp": null,
+        "ogrn": null,
+        "ogrnip": null
+      },
+      {
+        "role": "ТРЕТЬЕ ЛИЦО",
+        "name": "Управление жилищных отношений администрации г. Перми",
+        "inn": "5902293393",
+        "kpp": null,
+        "ogrn": "1065902057605",
+        "ogrnip": null
+      }
+    ]
+  },
+  {
+    "uid": "59RS0007-01-2025-002885-24",
+    "type": "Гражданские дела - первая инстанция",
+    "number": "2-3610/2025 ~ М-1399/2025",
+    "identifiers": {
+      "uid": "59RS0007-01-2025-002885-24",
+      "number": "2-3610/2025 ~ М-1399/2025",
+      "delo_id": "1540005",
+      "case_uid": "b916af1f-78da-45a3-a489-3c0390d616ae",
+      "case_type": null
+    },
+    "publishedAt": "undefined-undefined-02T00:00:00",
+    "modifiedAt": "undefined-undefined-08T00:00:00",
+    "card": {
+      "filingDate": "2025-04-02",
+      "category": [
+        "Споры, связанные с имущественными правами&nbsp;→",
+        "Иски о взыскании сумм по договору займа, кредитному договору"
+      ],
+      "judge": "Ивченков Максим Сергеевич",
+      "hearingDate": null,
+      "result": null,
+      "proceedingType": "Рассматривается единолично судьей"
+    },
+    "events": [
+      {
+        "eventName": "Регистрация иска (заявления, жалобы) в суде",
+        "eventDate": "2025-04-02",
+        "eventTime": "15:30",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-04-02"
+      },
+      {
+        "eventName": "Передача материалов судье",
+        "eventDate": "2025-04-02",
+        "eventTime": "18:05",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-04-02"
+      },
+      {
+        "eventName": "Решение вопроса о принятии иска (заявления, жалобы) к рассмотрению",
+        "eventDate": "2025-04-09",
+        "eventTime": "15:16",
+        "location": null,
+        "result": "Иск (заявление, жалоба) принят к производству",
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-04-16"
+      },
+      {
+        "eventName": "Вынесено определение о подготовке дела к судебному разбирательству",
+        "eventDate": "2025-04-09",
+        "eventTime": "15:17",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-04-16"
+      },
+      {
+        "eventName": "Вынесено определение в порядке ст. 152 ч.3 ГПК РФ (о назначении срока проведения предв. суд. заседания выходящего за пределы установленных ГПК)",
+        "eventDate": "2025-04-09",
+        "eventTime": "15:19",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-04-16"
+      },
+      {
+        "eventName": "Предварительное судебное заседание",
+        "eventDate": "2025-06-09",
+        "eventTime": "15:00",
+        "location": "106 (Героев Хасана 6)",
+        "result": "Заседание отложено",
+        "reason": "неявка ОБЕИХ СТОРОН",
+        "note": null,
+        "publishDate": "2025-04-16"
+      },
+      {
+        "eventName": "Предварительное судебное заседание",
+        "eventDate": "2025-08-18",
+        "eventTime": "10:30",
+        "location": "106 (Героев Хасана 6)",
+        "result": "Заседание отложено",
+        "reason": "ИНЫЕ ПРИЧИНЫ",
+        "note": null,
+        "publishDate": "2025-06-09"
+      },
+      {
+        "eventName": "Предварительное судебное заседание",
+        "eventDate": "2025-10-07",
+        "eventTime": "16:00",
+        "location": "106 (Героев Хасана 6)",
+        "result": "Назначено судебное заседание",
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-08-18"
+      },
+      {
+        "eventName": "Судебное заседание",
+        "eventDate": "2025-11-06",
+        "eventTime": "09:40",
+        "location": "106 (Героев Хасана 6)",
+        "result": "Объявлен перерыв",
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-10-07"
+      },
+      {
+        "eventName": "Судебное заседание",
+        "eventDate": "2025-11-12",
+        "eventTime": "09:00",
+        "location": "106 (Героев Хасана 6)",
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-11-07"
+      }
+    ],
+    "parties": [
+      {
+        "role": "ОТВЕТЧИК",
+        "name": "Ежов Олег Юрьевич",
+        "inn": null,
+        "kpp": null,
+        "ogrn": null,
+        "ogrnip": null
+      },
+      {
+        "role": "ИСТЕЦ",
+        "name": "ПАО Сбербанк",
+        "inn": "7707083893",
+        "kpp": null,
+        "ogrn": "1027700132195",
+        "ogrnip": null
+      },
+      {
+        "role": "ПРЕДСТАВИТЕЛЬ",
+        "name": "Трухина Галина Анатольевна",
+        "inn": null,
+        "kpp": null,
+        "ogrn": null,
+        "ogrnip": null
+      }
+    ]
+  },
+  {
+    "uid": "59RS0007-01-2025-006866-12",
+    "type": "Гражданские дела - первая инстанция",
+    "number": "2-5467/2025 ~ М-3463/2025",
+    "identifiers": {
+      "uid": "59RS0007-01-2025-006866-12",
+      "number": "2-5467/2025 ~ М-3463/2025",
+      "delo_id": "1540005",
+      "case_uid": "ec12c34e-17a2-49c1-bf3d-721ad4cb0287",
+      "case_type": null
+    },
+    "publishedAt": "undefined-undefined-31T00:00:00",
+    "modifiedAt": "undefined-undefined-12T00:00:00",
+    "card": {
+      "filingDate": "2025-07-31",
+      "category": [
+        "Споры, связанные с имущественными правами&nbsp;→",
+        "Иски о взыскании сумм по договору займа, кредитному договору"
+      ],
+      "judge": "Дзюбинская Оксана Павловна",
+      "hearingDate": null,
+      "result": null,
+      "proceedingType": "Рассматривается единолично судьей"
+    },
+    "events": [
+      {
+        "eventName": "Регистрация иска (заявления, жалобы) в суде",
+        "eventDate": "2025-07-31",
+        "eventTime": "13:48",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-07-31"
+      },
+      {
+        "eventName": "Передача материалов судье",
+        "eventDate": "2025-07-31",
+        "eventTime": "18:15",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-07-31"
+      },
+      {
+        "eventName": "Решение вопроса о принятии иска (заявления, жалобы) к рассмотрению",
+        "eventDate": "2025-08-06",
+        "eventTime": "12:33",
+        "location": null,
+        "result": "Оставление иска (заявления, жалобы) без движения",
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-08-06"
+      },
+      {
+        "eventName": "Рассмотрение исправленных материалов, поступивших в суд",
+        "eventDate": "2025-08-18",
+        "eventTime": "16:20",
+        "location": null,
+        "result": "Иск (заявление, жалоба) принят к производству",
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-08-18"
+      },
+      {
+        "eventName": "Вынесено определение о подготовке дела к судебному разбирательству",
+        "eventDate": "2025-08-18",
+        "eventTime": "16:21",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-08-18"
+      },
+      {
+        "eventName": "Вынесено определение о назначении предварительного судебного заседания",
+        "eventDate": "2025-08-18",
+        "eventTime": "16:21",
+        "location": null,
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-08-18"
+      },
+      {
+        "eventName": "Предварительное судебное заседание",
+        "eventDate": "2025-10-09",
+        "eventTime": "15:00",
+        "location": "109 (Героев Хасана 6)",
+        "result": "Назначено судебное заседание",
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-08-18"
+      },
+      {
+        "eventName": "Судебное заседание",
+        "eventDate": "2025-11-12",
+        "eventTime": "09:00",
+        "location": "109 (Героев Хасана 6)",
+        "result": "Заседание отложено",
+        "reason": "неявка ОТВЕТЧИКА",
+        "note": null,
+        "publishDate": "2025-10-09"
+      },
+      {
+        "eventName": "Судебное заседание",
+        "eventDate": "2025-12-04",
+        "eventTime": "09:00",
+        "location": "113 (Героев Хасана 6)",
+        "result": null,
+        "reason": null,
+        "note": null,
+        "publishDate": "2025-11-12"
+      }
+    ],
+    "parties": [
+      {
+        "role": "ИСТЕЦ",
+        "name": "Банк ВТБ (ПАО)",
+        "inn": "7702070139",
+        "kpp": "997950001",
+        "ogrn": "1027739609391",
+        "ogrnip": null
+      },
+      {
+        "role": "ОТВЕТЧИК",
+        "name": "Казаков Артём Александрович",
+        "inn": null,
+        "kpp": null,
+        "ogrn": null,
+        "ogrnip": null
+      },
+      {
+        "role": "ПРЕДСТАВИТЕЛЬ",
+        "name": "Минсадырова Галина Вагизовна",
+        "inn": null,
+        "kpp": null,
+        "ogrn": null,
+        "ogrnip": null
+      },
+      {
+        "role": "ОТВЕТЧИК",
+        "name": "ООО \"Грант\"",
+        "inn": "5911073355",
+        "kpp": null,
+        "ogrn": "1155958061159",
+        "ogrnip": null
+      }
+    ]
+  }
+]
